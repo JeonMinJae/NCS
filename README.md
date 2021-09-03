@@ -4,26 +4,24 @@
 * Presentation Layer
   - Activity
   - Fragment
-  - ViewModel
-
+  
 * Repository Layer
   - Remote Data Source(Retrofit2)
-  - Local Data Source(Room)
 
 * Common
-  - Coroutines
-  - Android X
-  - Koin (for Light-Weight DI)
   - View-Binding
 
 * Third-Party Library
   - Glide, Glide-Transformation
   - Retrofit2
   - OkHttp3
-  - Google Maps, Location
-  - Firebase Auth, Firebase Store
+  - Exoplayer
+  
 
 
 
 
 # 실제화면
+|재생목록|플레이화면|-|
+|-|-|-|
+|![image](https://user-images.githubusercontent.com/38930501/131969039-2e6aaafb-7208-48a5-b5d4-9fb28d3bb9d5.png)|![image](https://user-images.githubusercontent.com/38930501/131969166-86056b61-6074-4c40-9fb8-706a667fab42.png)||
